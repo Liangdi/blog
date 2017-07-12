@@ -5,6 +5,7 @@
 * [angular 栈开发所需技术能力][1] / [PDF][1-pdf]
 
 ### 架构资料
+* [angular 项目架构说明和设计指南][2] /[PDF][2-pdf]
 
 ### 产品/项目
 
@@ -14,3 +15,6 @@
 
 [1]: guide/skills-for-angular-developer.md "angular 开发所需技术能力"
 [1-pdf]: guide/skills-for-angular-developer.pdf "PDF"
+
+[2]: architecture/a-angular-architecture.md "angular 项目架构说明和设计指南"
+[2-pdf]: architecture/a-angular-architecture.pdf "PDF"
