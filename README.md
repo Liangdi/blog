@@ -5,7 +5,11 @@
 * [angular 栈开发所需技术能力][1] / [PDF][1-pdf]
 
 ### 架构资料
-* [angular 项目架构说明和设计指南][2] /[PDF][2-pdf]
+* [angular 项目架构说明和设计指南][2] / [PDF][2-pdf]
+
+### Linux
+
+* [给 Windows 技术同事的 Linux 入门指南][3] / [PDF][3-pdf]
 
 ### 产品/项目
 
@@ -18,3 +22,6 @@
 
 [2]: architecture/a-angular-architecture.md "angular 项目架构说明和设计指南"
 [2-pdf]: architecture/a-angular-architecture.pdf "PDF"
+
+[3]: linux/linux-guide-for-windows-programmers.md "给 Windows 技术同事的 Linux 入门指南"
+[3-pdf]: linux/linux-guide-for-windows-programmers.pdf "PDF"
