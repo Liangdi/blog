@@ -16,14 +16,20 @@
   * ...
 
 * ### Linux 介绍与现状
-  * Linus 1991 年第一次发布 Linux 0.1
+  * Linus 1991 年第一次发布 Linux 0.01
   * Linux 的一些设计思想
     * kiss
+    * 一切兼文件
     * 约定 (大家按照一定标准做事情)
     * 提供机制而不是策略 (面向对象中的‘针对接口编程，而不是针对实现编程’)
   * 众多的发行版
-    * 服务器
-    * 桌面
+    * RHEL
+    * CentOS
+    * Debain
+    * Ubuntu
+    * Fedora
+    * Deepin
+
 
 * ### shell 基本知识
   * 内核和 shell

@@ -3,6 +3,7 @@
 
 ### 总结/培训资料
 * [angular 栈开发所需技术能力][1] / [PDF][1-pdf]
+* [用 angular 的方式去开发前端应用][4] / [PDF][4-pdf]
 
 ### 架构资料
 * [angular 项目架构说明和设计指南][2] / [PDF][2-pdf]
@@ -25,3 +26,6 @@
 
 [3]: linux/linux-guide-for-windows-programmers.md "给 Windows 技术同事的 Linux 入门指南"
 [3-pdf]: linux/linux-guide-for-windows-programmers.pdf "PDF"
+
+[4]: guide/develop-web-app-with-angular.md "用 angular 的方式去开发前端应用"
+[4-pdf]: guide/develop-web-app-with-angular.pdf "PDF"
