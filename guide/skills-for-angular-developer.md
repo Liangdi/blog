@@ -1,6 +1,6 @@
 # angular 开发所需技术能力
 * Author: Liangdi(wu@liangdi.me)
-* Last Updated(2017-07-12) 
+* Last Updated(2017-07-12)
 
 所需能力
 >了解: 知道相关技术/工具以及其基本用途，能安装使用

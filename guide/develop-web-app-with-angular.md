@@ -22,11 +22,12 @@
   * 事件
   * 显示/隐藏
   * class 修改
+  * style 修改
   * attr / data
 
 * ### RxJs
   * Observe
-  * Transform/Action
+  * Operators
   * Angular Http
   * Angular event
 * ### UI 库
@@ -35,3 +36,17 @@
 
 * ### 选择合适的前端架构
   * 因公司而异
+  * 模块划分
+
+* ### angular 模块详解
+  * Forms
+  * Animations
+  * Http
+  * component 生命周期
+  * Pipes
+  * Router
+  * Testing
+
+* ### angular 高级主题
+  * 国际化(i18n)
+  * 安全
