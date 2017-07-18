@@ -12,6 +12,9 @@
 
 * [给 Windows 技术同事的 Linux 入门指南][3] / [PDF][3-pdf]
 
+### SCRUM
+* [使用便利贴实践 Scrum Board][5] / [PDF][5-pdf]
+
 ### 产品/项目
 
 
@@ -29,3 +32,6 @@
 
 [4]: guide/develop-web-app-with-angular.md "用 angular 的方式去开发前端应用"
 [4-pdf]: guide/develop-web-app-with-angular.pdf "PDF"
+
+[5]: scrum/scrum-board-with-post-it.md "使用便利贴实践 Scrum Board"
+[5-pdf]: scrum/scrum-board-with-post-it.pdf "PDF"
